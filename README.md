@@ -1,0 +1,2 @@
+# dino-jurassic-back
+Dino is a digital currency that entered the global market in 2020. Dino is a functional token that allows them to use the products and discoveries of Dinodat Rami Company and is built on ETH and BSC blockchain networks. Dino tokenomy and roadmap can be seen on https:// dinodot.org's website. The CEO and owner of Dino are Mr. Amin Mahroogh and the middle managers are Saeed Vatan and Zhao Flio, and the technology director is Sara Adab and the executive director is ghafoor pakdel.
